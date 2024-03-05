@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+// 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
+
 #include <stdio.h>
 
 int	main(int argc, char **argv)
