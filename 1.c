@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// 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
-
 #include <stdio.h>
 
 int	main(int argc, char **argv)
